@@ -1,0 +1,9 @@
+{
+  "name": "ccnet-scraper",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "playwright": "^1.44.0",
+    "fs-extra": "^11.2.0"
+  }
+}
